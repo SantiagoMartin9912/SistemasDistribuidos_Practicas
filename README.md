@@ -1,0 +1,2 @@
+# SistemasDistribuidos_Practicas
+Nombre del repositorio: SistemasDistribuidos_Practicas
